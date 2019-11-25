@@ -1,11 +1,16 @@
 _repo: The-Autumn-After-Next_60745
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60745-h/images/cover.jpg
 creator:
   author:
     agent_name: Clair, Margaret St.
     gutenberg_agent_id: '51121'
     url: http://www.gutenberg.org/2009/agents/51121
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60745#The-Autumn-After-Next
 gutenberg_issued: '2019-11-20'
 gutenberg_type: Text
 identifiers:
